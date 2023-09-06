@@ -4,11 +4,11 @@ $product = 'worksuite-saas';
 
 $envato_item_id = 23263417;
 
-$productUrl = 'http://1.envato.market/worksuitesaas';
+$productUrl = '';
 
-$updatesDomain = 'https://froiden-updates.s3.ap-south-1.amazonaws.com';
+$updatesDomain = '';
 
-$verifyDomain = 'https://envato.froid.works';
+$verifyDomain = '';
 
 return [
 
